@@ -1,0 +1,24 @@
+{
+  "name": "sl-nodejs-scheduler",
+  "version": "1.0.0",
+  "description": "SL (Self-Learning) - NodeJS Scheduler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamleshrao/sl-nodejs-scheduler.git"
+  },
+  "author": "Kamlesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamleshrao/sl-nodejs-scheduler/issues"
+  },
+  "homepage": "https://github.com/kamleshrao/sl-nodejs-scheduler#readme",
+  "dependencies": {
+    "dateformat": "^3.0.2",
+    "express": "^4.16.2",
+    "node-schedule": "^1.2.5"
+  }
+}
